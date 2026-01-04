@@ -1,4 +1,4 @@
-# 📊 Employee Attrition Analytics & Predictive Limitations Study
+# 📊 Employee Attrition Analytics 
 
 This repository contains an end-to-end HR analytics project focused on understanding employee attrition patterns, extracting business insights, and evaluating the limitations of predictive machine learning models when key organizational drivers are missing.
 
@@ -18,7 +18,6 @@ The project demonstrates **real-world data science thinking**, including data cl
 - [🧠 Limitations & Analysis](#-limitations--analysis)  
 - [📌 Business Recommendations](#-business-recommendations)  
 - [📁 How to Run](#-how-to-run)  
-- [📄 Authors / Acknowledgements](#-authors--acknowledgements)  
 
 ---
 
